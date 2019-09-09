@@ -1,4 +1,4 @@
-# Cloud platform 을 활용한 Kubernetes node 사용 가이드 
+# IBM Cloud platform 을 활용한 Kubernetes node 사용 가이드 
 
 ![data_engineering](./Users/bloomspes/Downloads/data_engineering.png)
 
