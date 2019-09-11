@@ -1,5 +1,5 @@
 # ELK
-Elasticsearch + Docker, Kubernetes 학습
+Elasticsearch, Logstash, Kibana + Docker, Kubernetes 학습
 
 ## 1. Docker, Kubernetes 기본 조작법 학습하기
 ## 2. ELK(Elasticsearch + Logstash + Kibana)에 대해 알아보자
