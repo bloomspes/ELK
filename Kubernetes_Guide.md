@@ -1,12 +1,6 @@
 # IBM Cloud platform 을 활용한 Kubernetes node 사용 가이드 
 ## 1. IBM cloud kubernetes CLI installation guide
 
-- 모든 클라우드 서비스는 CLI를 설치 하는 것에서 부터 출발 합니다. 그 이유는, GUI 방식에 비해 클라우드 컴퓨팅이 더 간편하고 제공하는 기능의 수가 더 많기 때문입니다. CLI 작업에 익숙해 지는 것이 클라우드 플랫폼을 활용하는 첫번째 단계 이기도 합니다. IBM Cloud의 CLI를 인스톨 하는 url은 [IBM CLI Install](https://cloud.ibm.com/docs/containers?topic=containers-cs_cli_install)에서 참조할 수 있습니다.
-
-- **데이터 엔지니어링 Ecosystem**
-
-## 1. IBM cloud kubernetes CLI installation guide
-
 - 모든 클라우드 서비스는 CLI를 설치 하는 것에서 부터 출발합니다. 그 이유는, CLI를 통해 클라우드의 리소스를 제어 할 수 있는 기능이 GUI 방식에 비해 더 간편하고, 많기 때문 입니다. IBM Cloud의 CLI를 인스톨 하는 url은 [IBM CLI Install](https://cloud.ibm.com/docs/containers?topic=containers-cs_cli_install) 에서 참조할 수 있습니다.
 
 ## 2. Analyze logs in Kibana for an app that is deployed in a Kubernetes
